@@ -1,0 +1,71 @@
+/* 2019314704 Park Suyeon */
+
+html{
+  font-family: sans-serif;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#top_background{
+  background-color: skyblue;
+  height: 250px;
+  width: 100%;
+}
+
+.position{
+  margin-left: 15%;
+  margin-right: 15%;
+  width: 70%;
+}
+
+a{
+  text-decoration-line : none;
+  color: #FF6464;
+}
+
+#top{
+  position: absolute;
+  margin-top: -50px;
+}
+
+#top img{
+  margin-top: -100px;
+  margin-bottom: 12px;
+}
+
+#top button{
+  position: absolute;
+  margin-left: 90%;
+  margin-top: 25px;
+}
+
+#top p{
+  margin-top: 10px;
+}
+
+#profile{
+  position: relative;
+  margin-top: 210px;
+}
+
+#profile table{
+  width: 100%;
+}
+
+#interest{
+  margin-top: 30px;
+}
+
+#interest ul{
+  width: 100%;
+}
+
+#interest span{
+  color: lightgray;
+}
+
+#thanks{
+  margin-top: 30px;
+  margin-bottom: 20px;
+  text-align: center;
+}
